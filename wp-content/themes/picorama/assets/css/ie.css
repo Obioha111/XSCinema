@@ -1,0 +1,9 @@
+/*This is for IE*/
+.flexslider .slides > li{
+	position: relative
+}
+
+.slide-desc{
+	position: absolute;
+	bottom:0;
+}
